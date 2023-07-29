@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/raylib_starter.dir/src/main.cpp.o -o raylib_starter  raylib/raylib/libraylib.a -lm -lpthread /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so raylib/raylib/external/glfw/src/libglfw3.a /usr/lib/librt.a -lm -ldl 
