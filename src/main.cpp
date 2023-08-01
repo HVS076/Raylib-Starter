@@ -2,7 +2,7 @@
 #include <rcamera.h>
 #include <raymath.h>
  
-int main(void) {
+int main() {
     const int screenWidth = 800;
     const int screenHeight = 450;
  
